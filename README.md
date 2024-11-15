@@ -1,4 +1,4 @@
-# README - Comandos Básicos em Pandas
+# Comandos Básicos em Pandas
 
 Este repositório inclui um notebook com exemplos e comandos fundamentais para manipulação de dados usando a biblioteca Pandas em Python. Abaixo, estão as principais seções abordadas no notebook e uma descrição de cada uma delas.
 
